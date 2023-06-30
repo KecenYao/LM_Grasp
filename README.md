@@ -1,4 +1,4 @@
-# LM_Grasp By Kevin & Michale
+# LM_Grasp By Kevin & Michael
 This is a working project aimed at 2023 ICRA.
 
 Here is the pipeline for the project.
