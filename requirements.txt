@@ -1,0 +1,94 @@
+addict==2.4.0
+aiohttp==3.8.5
+aiosignal==1.3.1
+async-timeout==4.0.2
+attrs==23.1.0
+brotlipy==0.7.0
+certifi @ file:///croot/certifi_1690232220950/work/certifi
+cffi @ file:///work/ci_py311/cffi_1676822533496/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.6
+cmake==3.27.1
+contourpy==1.1.0
+cryptography @ file:///croot/cryptography_1689373676338/work
+cycler==0.11.0
+docopt==0.6.2
+fairscale==0.4.4
+ffmpeg-python==0.2.0
+filelock @ file:///work/ci_py311/filelock_1676823024085/work
+fonttools==4.42.0
+frozenlist==1.4.0
+fsspec==2023.6.0
+future==0.18.3
+gmpy2 @ file:///work/ci_py311/gmpy2_1676839849213/work
+# Editable install with no version control (groundingdino==0.1.0)
+-e /scratch/hy2203/Grasp-Anything/GroundingDINO
+huggingface-hub==0.16.4
+idna @ file:///work/ci_py311/idna_1676822698822/work
+imageio==2.31.1
+importlib-metadata==6.8.0
+Jinja2 @ file:///work/ci_py311/jinja2_1676823587943/work
+joblib==1.3.1
+kiwisolver==1.4.4
+lazy_loader==0.3
+lit==16.0.6
+llvmlite==0.40.1
+MarkupSafe @ file:///work/ci_py311/markupsafe_1676823507015/work
+matplotlib==3.7.2
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+more-itertools==10.1.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+multidict==6.0.4
+networkx @ file:///croot/networkx_1690561992265/work
+numba==0.57.1
+numpy==1.24.4
+openai==0.27.8
+openai-whisper==20230314
+opencv-python==4.8.0.74
+opencv-python-headless==4.8.0.74
+packaging==23.1
+Pillow==9.4.0
+pipreqs==0.4.13
+platformdirs==3.10.0
+protobuf==4.24.0
+pycocoevalcap==1.2
+pycocotools==2.0.6
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.0.9
+pyrealsense2==2.54.1.5217
+PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
+python-dateutil==2.8.2
+PyWavelets==1.4.1
+PyYAML==6.0.1
+regex==2023.8.8
+requests @ file:///croot/requests_1690400202158/work
+sacremoses==0.0.53
+safetensors==0.3.2
+scikit-image==0.21.0
+scipy==1.11.1
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git@6fdee8f2727f4506cfbbe553e23b895e27956588
+six==1.16.0
+supervision==0.13.0
+sympy @ file:///work/ci_py311_2/sympy_1679339311852/work
+tensorboardX==2.6.2
+tifffile==2023.7.18
+tiktoken==0.3.1
+timm==0.4.12
+tokenizers==0.10.3
+tomli==2.0.1
+torch==2.0.1
+torchaudio==2.0.2
+torchsummary==1.5.1
+torchvision==0.15.2
+tqdm==4.65.2
+transformers==4.15.0
+triton==2.0.0
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+urllib3 @ file:///croot/urllib3_1686163155763/work
+yapf==0.40.1
+yarg==0.1.9
+yarl==1.9.2
+zipp==3.16.2
